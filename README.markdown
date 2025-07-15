@@ -154,5 +154,11 @@ project/
 - **eSewa Redirect Issues**: Check `includes/esewa_config.php` for correct URLs and test credentials.
 - **Session Issues**: Clear browser cache or test in incognito mode.
 
+
+ScreenShots
+
+Homepage
+assets/images/homepage.jpeg
+
 ## License
 This project is for educational purposes and not licensed for commercial use. eSewa integration requires live credentials for production.
