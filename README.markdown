@@ -158,7 +158,7 @@ project/
 ScreenShots
 
 Homepage
-assets/images/homepage.jpeg
+![Image](https://github.com/user-attachments/assets/9dedd651-3a38-461e-bdf2-3bdfd2fa05e4)
 
 ## License
 This project is for educational purposes and not licensed for commercial use. eSewa integration requires live credentials for production.
