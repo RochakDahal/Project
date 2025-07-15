@@ -157,28 +157,28 @@ project/
 
 ## ScreenShots
 
-Homepage
+## Homepage
 ![Image](https://github.com/user-attachments/assets/9dedd651-3a38-461e-bdf2-3bdfd2fa05e4)
 
-Product list(Backend)
+## Product list(Backend)
 ![Image](https://github.com/user-attachments/assets/a7548dba-02d2-455d-924c-331e8cf22aa6)
 
-Register Page
+## Register Page
 ![Image](https://github.com/user-attachments/assets/ab64aea6-c66c-42e6-96aa-ff737aef58aa)
 
-Login Page
+## Login Page
 ![Image](https://github.com/user-attachments/assets/f286ec20-311c-4a02-a7ce-25dbcbbeb84f)
 
-HomePage
+## HomePage
 ![Image](https://github.com/user-attachments/assets/d3a4741e-e976-4f2c-99b9-64dd2d60332a)
 
-Checkout
+## Checkout
 ![Image](https://github.com/user-attachments/assets/5f3ca80b-7cc8-4404-be4d-56b6dc6e5a5c)
 
-Checkout via esewa
+## Checkout via esewa
 ![Image](https://github.com/user-attachments/assets/de1c42f9-a44f-4d06-9a57-6a449306f4ae)
 
-esewa for payment
+## esewa for payment
 ![Image](https://github.com/user-attachments/assets/5865f061-341f-4e97-aa22-edeffea0e486)
 
 
